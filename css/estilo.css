@@ -46,6 +46,10 @@ animation: Cloud-animation2 20s infinite linear;
     bottom: 1px;
     left: 35%;
 }
+.Score{
+    position: absolute;
+    bottom: 200px;
+}
 @keyframes Cloud-animation2 {
 from {
     right: -550px;
